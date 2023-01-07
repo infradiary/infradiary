@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @infradiary
-- 👀 I’m interested in operation system and web development 
-- 🌱 I’m currently learning wordpress 
+- 👀 I’m interested in Cyber Security. 
+- 🌱 I’m currently learning cyber security analys.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
